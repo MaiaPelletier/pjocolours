@@ -1,13 +1,13 @@
 # pjocolours
-An R package for color palettes inspired by the original book covers of Percy Jackson and the Olympian by Rick Riordan.
+An R package for color palettes inspired by the original book covers of *Percy Jackson and the Olympians* by Rick Riordan.
 
 ![](figs/bookcovers.jpg)
 
-*Note*: I do not own any aspect of Percy Jackson and the Olympians, all titles and ideas are the original content of author Rick Riordan.  
+**Note: I do not own any aspect of Percy Jackson and the Olympians, all titles and ideas are the original content of author Rick Riordan.**  
 
 ## Installation
 
-You can install the released version of nationalparkcolors from GitHub with
+You can install the released version of pjocolors from GitHub with
 
 ```r
 # install.packages("devtools")
@@ -28,3 +28,14 @@ names(pjo_palettes)
 # > [1] "LightningThief"    "SeaOfMonsters"     "TitansCurse"      
 # > [4] "BatOfTheLabyrinth" "LastOlympian"   
 ```
+
+## Palette Overview  
+
+![](figs/LightningThief.png)
+![](figs/SeaOfMonsters.png)
+![](figs/TitansCurse.png)
+![](figs/BatOfTheLabyrinth.png)
+![](figs/LastOlympian.png)
+
+
+
