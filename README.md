@@ -1,5 +1,5 @@
 # pjocolours
-An R package for color palettes inspired by the original book covers of *Percy Jackson and the Olympians* by Rick Riordan.
+An R package for color palettes inspired by the original book covers the children's fantasy series *Percy Jackson and the Olympians* by Rick Riordan.
 
 ![](figs/bookcovers.jpg)
 
