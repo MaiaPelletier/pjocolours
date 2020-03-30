@@ -1,0 +1,13 @@
+Package: pjocolors
+Title: Color Palettes based on Percy Jackson and the Olympians book covers
+Version: 0.1.0
+Authors@R: 
+    person(given = "Maia",
+           family = "Pelletier",
+           role = c("aut", "cre"),
+           email = "maia.pelletier15@gmail.com")
+Description: An R package for color palettes inspired by the original book covers of Percy Jackson and the Olympian by Rick Riordan.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
