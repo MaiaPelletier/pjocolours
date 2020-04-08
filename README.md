@@ -3,7 +3,7 @@ An R package for color palettes inspired by the original book covers the childre
 
 ![](figs/bookcovers.jpg)
 
-**Note: I do not own any aspect of Percy Jackson and the Olympians, all titles and ideas are the original content of author Rick Riordan.**  
+**Disclaimer: I do not own any aspect of Percy Jackson and the Olympians, all titles and ideas are the original content of author Rick Riordan.**  
 
 ## Installation
 
