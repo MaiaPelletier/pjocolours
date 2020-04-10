@@ -3,15 +3,18 @@
 \docType{data}
 \name{pjo_palettes}
 \alias{pjo_palettes}
-\title{Complete list of palettes}
+\title{PJO palettes}
 \format{
-An object of class \code{list} of length 5.
+An object of class \code{list} of length 6.
 }
 \usage{
 pjo_palettes
 }
 \description{
-For the time being, all palettes only contain 5 colours.
+Complete list of palettes
+}
+\details{
+Currently all palettes only contain 5 colours.
 Palettes are derived using coolor.co and making personal adjustments.
 }
 \keyword{datasets}

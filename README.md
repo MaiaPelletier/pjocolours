@@ -26,7 +26,7 @@ library(pjocolors)
 names(pjo_palettes)
 
 # > [1] "LightningThief"    "SeaOfMonsters"     "TitansCurse"      
-# > [4] "BatOfTheLabyrinth" "LastOlympian"   
+# > [4] "BatOfTheLabyrinth" "LastOlympian"      "LastOlympian2"  
 ```
 
 ## Palette Overview  
@@ -36,6 +36,7 @@ names(pjo_palettes)
 ![](figs/TitansCurse.png)
 ![](figs/BatOfTheLabyrinth.png)
 ![](figs/LastOlympian.png)
+![](figs/LastOlympian2.png)
 
 
 
