@@ -87,4 +87,4 @@ I created some plots to illustrate how to use `pjocolors`.
     # Apply pjocolors (SeaOfMonsters)
     p3 + scale_color_pjo(palette = 'SeaOfMonsters', discrete = FALSE)
 
-<img src="figs/fig3.png" width="1775" />
+<img src="figs/fig3.png" width="50%" style="display: block; margin: auto;" />
